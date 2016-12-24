@@ -31,6 +31,6 @@ Added frame and key +2mm longest (frame+2mm and key+2mm)
 Printer Brand: RepRap
 Printer: engineer v2
 Rafts: No
-Supports: No
+Supports: Yes
 Resolution: z - 0.1...0.15
 Infill: 15-20%
